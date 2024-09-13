@@ -1,0 +1,11 @@
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\bin\Debug\net8.0\PersonLibrary.deps.json
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\bin\Debug\net8.0\PersonLibrary.dll
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\bin\Debug\net8.0\PersonLibrary.pdb
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\PersonLibrary.AssemblyInfoInputs.cache
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\PersonLibrary.AssemblyInfo.cs
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\PersonLibrary.dll
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\refint\PersonLibrary.dll
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\PersonLibrary.pdb
+C:\Users\nahla\source\repos\PersonLibrary\PersonLibrary\obj\Debug\net8.0\ref\PersonLibrary.dll

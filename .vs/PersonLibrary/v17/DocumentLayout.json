@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahla\\source\\repos\\PersonLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6330B254-9128-4FFF-A75A-F5C310E62E33}|PersonLibrary\\PersonLibrary.csproj|c:\\users\\nahla\\source\\repos\\personlibrary\\personlibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6330B254-9128-4FFF-A75A-F5C310E62E33}|PersonLibrary\\PersonLibrary.csproj|solutionrelative:personlibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6330B254-9128-4FFF-A75A-F5C310E62E33}|PersonLibrary\\PersonLibrary.csproj|c:\\users\\nahla\\source\\repos\\personlibrary\\personlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6330B254-9128-4FFF-A75A-F5C310E62E33}|PersonLibrary\\PersonLibrary.csproj|solutionrelative:personlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nahla\\source\\repos\\PersonLibrary\\PersonLibrary\\Student.cs",
+              "RelativeDocumentMoniker": "PersonLibrary\\Student.cs",
+              "ToolTip": "C:\\Users\\nahla\\source\\repos\\PersonLibrary\\PersonLibrary\\Student.cs",
+              "RelativeToolTip": "PersonLibrary\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:10:57.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nahla\\source\\repos\\PersonLibrary\\PersonLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "PersonLibrary\\Person.cs",
+              "ToolTip": "C:\\Users\\nahla\\source\\repos\\PersonLibrary\\PersonLibrary\\Person.cs",
+              "RelativeToolTip": "PersonLibrary\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:07:50.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
